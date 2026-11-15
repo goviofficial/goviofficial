@@ -1,4 +1,4 @@
-### Hi, I'm Ram 👋
+### Hi, I'm Govindaraj Jayaratchagan 👋
 
 Senior Full-Stack Software Engineer and Technical Lead based in Chennai, India. I specialize in designing distributed backend architectures, enterprise APIs, and automated developer workflows.
 
