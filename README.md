@@ -3,7 +3,7 @@
 Senior Full-Stack Software Engineer and Technical Lead based in Chennai, India. I specialize in designing distributed backend architectures, enterprise APIs, and automated developer workflows.
 
 #### 🚀 Core Stack & Architecture
-* **Backend & Cloud:** .NET Core, ASP.NET, C#, Node.js, Express, TypeScript, Azure Microservices
+* **Full-Stack & Cloud:** Angular, .NET Core, ASP.NET, C#, Node.js, Express, TypeScript, Azure Microservices
 * **Data & Storage:** SQL Server, PostgreSQL, Query Optimization & Schema Architecture
 * **Security & DevOps:** Webhook Security (HMAC SHA-256, IP Whitelisting), Docker, CI/CD Automation, Multi-Agent AI Workflows
 
